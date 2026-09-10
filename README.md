@@ -1,175 +1,251 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aryaen%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Mechatronics%20Engineering%20@%20University%20of%20Waterloo&descAlignY=55&descSize=18&animation=fadeIn" alt="Aryaen Sharma" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a5f,70:2563eb,100:38bdf8&height=210&section=header&text=Aryaen%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Mechatronics%20Engineering%20%E2%80%A2%20University%20of%20Waterloo&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Aryaen Sharma" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=720&lines=Full-stack+engineer+with+a+hardware+habit;React+%2B+FastAPI+%E2%86%92+shipped+and+deployed;Computer+vision%2C+robotics%2C+applied+AI;Ship+the+prototype%2C+then+make+it+real" alt="Intro" />
+
+<br /><br />
 
 <a href="https://www.linkedin.com/in/aryaen-sharma">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
-<a href="https://github.com/Aryaen-Sharma">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;
+<a href="https://issue-tracker-sharm4.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live demo" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Aryaen-Sharma&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
+&nbsp;
+<a href="https://github.com/Aryaen-Sharma?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Projects" />
+</a>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Mechatronics+Engineering+%40+Waterloo;Building+at+the+intersection+of+hardware+%26+software;Computer+vision%2C+robotics%2C+and+applied+AI;Hackathon+builder+%E2%9C%A6+Systems+tinkerer" alt="Typing intro" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 
 </div>
 
----
+<!-- ============================== ABOUT ============================== -->
+## &nbsp;👋&nbsp; About
 
-<!-- ==================== ABOUT ==================== -->
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> About Me
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
+
+I'm a **Mechatronics Engineering** student at the **University of Waterloo** — a degree that refuses to pick between mechanical, electrical, and software, which suits me.
+
+Most of what I build lives where **hardware meets software**: perception pipelines, control logic, and the web layer that makes it usable by an actual person.
 
 ```yaml
-name:       Aryaen Sharma
-program:    Mechatronics Engineering — University of Waterloo
-focus:      robotics · computer vision · full-stack · applied AI
-currently:  turning weekend hackathon ideas into working systems
-philosophy: ship the prototype, then make it real
+program:  Mechatronics Engineering, University of Waterloo
+building: full-stack apps · computer vision · applied AI
+comfort:  Python · JavaScript/React · FastAPI · OpenCV
+approach: ship the prototype, then make it real
+ask me:   robotics, embedded systems, or JWT auth flows
 ```
 
-- 🎓 Studying **Mechatronics Engineering** at the University of Waterloo — mechanical, electrical, and software all in one degree.
-- 🤖 I like problems that touch **both atoms and bits**: perception, control, embedded systems, and the software that ties them together.
-- 🧠 Recent work leans on **computer vision and LLMs** — YOLOv8 garment detection, OCR-driven reading assistants, and Gemini/Groq-powered decision engines.
-- 🏆 Hackathon regular — **HackCanada 2025 (Laurier)** and beyond. Fast prototypes, real demos.
-- 🛠️ Also completed the **WATonomous Autonomous Software Division** training assignment (ROS 2 / Python).
-- 💬 Happy to talk robotics, embedded systems, or why your Flask app is slow.
+- 🧱 Recently shipped a **production-deployed full-stack issue tracker** — auth, role-based authorization, aggregation-backed analytics, and an end-to-end test suite.
+- 👁️ Comfortable with **computer vision**: custom-trained YOLOv8 detectors, OCR pipelines, and MediaPipe hand tracking.
+- 🤖 Completed the **WATonomous Autonomous Software Division** training assignment (ROS 2 / Python).
+- 🏗️ Hackathon builder — fast prototypes that actually run in a demo.
 
----
+<br clear="right" />
 
-<!-- ==================== TECH STACK ==================== -->
-## 🧰 Tech Stack
+<!-- ============================== STACK ============================== -->
+## &nbsp;🧰&nbsp; Toolkit
 
 <div align="center">
 
+<br />
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sass&theme=dark" alt="Languages" />
 
-**Frameworks & Libraries**
+**Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,materialui,nodejs&theme=dark" alt="Frontend" />
 
-**AI / Computer Vision**
+**Backend & Data**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb&theme=dark" alt="Backend" />
 
-**Tools & Infrastructure**
+**AI / Vision**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="AI" />
+&nbsp;
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+
+**Infrastructure & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,vercel,linux,vscode&theme=dark" alt="Tooling" />
+&nbsp;
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 
 </div>
 
----
+<!-- ============================== HERO PROJECT ============================== -->
+## &nbsp;⭐&nbsp; Featured &nbsp;·&nbsp; Issue Tracker
 
-<!-- ==================== PROJECTS ==================== -->
-## 🚀 Featured Projects
+<div align="center">
+
+### A full-stack issue tracker — built, tested, and deployed
+
+<a href="https://issue-tracker-sharm4.vercel.app">
+  <img src="https://img.shields.io/badge/▶_Try_it_live-38BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Live demo" />
+</a>
+<a href="https://github.com/Aryaen-Sharma/IssueTracker">
+  <img src="https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/Aryaen-Sharma/IssueTracker">
+  <img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/demo.gif" width="88%" alt="Issue Tracker demo" />
+</a>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What it does**
+
+Teams file issues, comment, filter, and watch live status charts. Every account is fully scoped — users can't read or touch each other's data, and it's tested for exactly that.
+
+- 🔐 **JWT auth** — bcrypt hashing, 20-minute tokens, password-change re-verification
+- 🛡️ **Role-based authorization** — sensitive issues are `is_protected` and admin-delete-only, enforced **server-side**
+- 📊 **Stats page** driven by a MongoDB aggregation pipeline
+- ⚡ **Optimistic UI** — status changes apply instantly, roll back on failure
+- 🔎 Search, filter, sort, and paginated dashboard
+- 🌗 Dark/light themes, toasts, overdue detection, empty states
+
+</td>
+<td width="50%" valign="top">
+
+**How it's built**
+
+| Layer | Stack |
+|:--|:--|
+| Frontend | React 19 (Vite), React Router, Axios, Recharts |
+| Backend | FastAPI, Pydantic, python-jose, Passlib + bcrypt |
+| Database | MongoDB Atlas (PyMongo) |
+| Tests | pytest (API) + Playwright (E2E) |
+| Hosting | Vercel — frontend and API in one project |
+
+```text
+React (Axios)
+   └─▶ FastAPI route
+         └─▶ JWT auth dependency
+               └─▶ PyMongo ─▶ Atlas
+```
+
+A single Axios instance carries two interceptors: one attaches the bearer token, the other catches `401`s, clears state, and redirects to login.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<details>
+<summary><b>&nbsp;🖼️&nbsp; More screenshots &nbsp;<i>(click to expand)</i></b></summary>
+<br />
+<img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/dashboard.png" width="46%" alt="Dashboard" />
+<img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/stats.png" width="46%" alt="Stats" />
+<br /><br />
+<img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/issue-detail.png" width="46%" alt="Issue detail" />
+<img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/protected-issue.png" width="46%" alt="Protected issue" />
+</details>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+</div>
+## &nbsp;🚀&nbsp; Also Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧥 [FitCheck](https://github.com/mdola19/FitCheck)
-**AI wardrobe stylist that picks your outfit**
 
-Custom-trained **YOLOv8** model catalogues your clothes, then real-time weather plus an LLM stylist recommends a fit — with voice interaction and Pinterest inspiration built in.
+**An AI stylist that ends the morning outfit debate.**
 
-`Python` `Flask` `YOLOv8` `Groq` `Deepgram`
+A **custom-trained YOLOv8** model catalogues your wardrobe from photos. Live weather plus an LLM stylist then recommends a fit — with voice interaction and Pinterest inspiration alongside it.
+
+Highlights: custom object-detection training, multimodal reasoning, speech-to-text and back, accessibility controls (contrast, font size, colour-blind filters).
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 📖 [ReadAble](https://github.com/harsharan-r/ReadAble)
-**Real-time reading assistant for printed books**
 
-A camera follows along as you read. Point at an unfamiliar word for an instant definition, or let text-to-speech read the page aloud — built for language learners.
+**A camera that reads along with you.**
 
-`OpenCV` `EasyOCR` `MediaPipe` `Flask` `SCSS`
+Built for students learning a new language. Point at an unfamiliar word in a physical book and get an instant definition, or let text-to-speech read the page aloud — no typing, no app-switching.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Highlights: real-time OCR on a live camera feed, MediaPipe fingertip tracking mapped to detected words, scanned books saved for reuse.
 
-### ❄️ [SnowSmart](https://github.com/Aryaen-Sharma/SnowSmart)
-**Snow removal planning, powered by live weather**
-
-Enter a city and your available machinery; SnowSmart pulls live forecast data and generates an AI-optimized clearing schedule. Dockerized for one-command deploys.
-
-`React` `MUI` `Gemini API` `OpenWeatherMap` `Docker`
-
-*🏆 HackCanada 2025 @ Laurier*
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 [IssueTracker](https://github.com/Aryaen-Sharma/IssueTracker)
-**Lightweight issue and task tracking**
-
-A focused tracker for managing work items without the overhead of heavyweight project management tooling.
-
-`JavaScript`
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/EasyOCR-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>&nbsp;📂&nbsp; More work &nbsp;<i>(click to expand)</i></b></summary>
 
-<!-- ==================== STATS ==================== -->
-## 📊 GitHub Stats
+<br />
+
+**❄️ [SnowSmart](https://github.com/Aryaen-Sharma/SnowSmart)** — `React` `MUI` `Gemini API` `Docker`
+Snow-removal planner built at HackCanada 2025 (Laurier). Enter a city and your available machinery; it pulls live forecast data and generates an optimized clearing schedule. Dockerized for one-command deploys.
+
+**🤖 [wato_asd_training](https://github.com/Aryaen-Sharma/wato_asd_training)** — `Python` `ROS 2`
+WATonomous Autonomous Software Division training assignment — robotics perception and control fundamentals in a ROS 2 workspace.
+
+</details>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryaen-Sharma&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaen-Sharma&layout=compact&langs_count=8&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryaen-Sharma&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=F55036&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" alt="Streak stats" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aryaen-Sharma&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
 </div>
 
----
-
-<!-- ==================== CONNECT ==================== -->
-## 🤝 Let's Connect
-
+<!-- ============================== CONTACT ============================== -->
 <div align="center">
 
-I'm always open to talking about robotics, computer vision, or a project worth building.
+## &nbsp;🤝&nbsp; Get in touch
+
+Open to internships, co-op roles, and side projects worth building.
+If you want to talk robotics, computer vision, or full-stack architecture — reach out.
+
+<br />
 
 <a href="https://www.linkedin.com/in/aryaen-sharma">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br /><br />
 
-<i>"Ship the prototype, then make it real."</i>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+scrolling.+Now+go+build+something." alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,30:2563eb,65:1e3a5f,100:0f172a&height=140&section=footer" width="100%" alt="" />
 
 </div>
