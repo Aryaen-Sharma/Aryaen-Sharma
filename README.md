@@ -30,9 +30,9 @@ I'm a **Mechatronics Engineering** student at the **University of Waterloo**. I 
 
 ### 🧰 Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,react,fastapi,mongodb,ts,js,docker,git&theme=dark" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,react,fastapi,mongodb,ts,js,docker,git&theme=dark" alt="C++, Python, Arduino, Raspberry Pi, React, FastAPI, MongoDB, TypeScript, JavaScript, Docker, Git" />
 <br />
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/SOLIDWORKS-D71920?style=flat-square&logo=dassaultsystemes&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" /> <img src="https://img.shields.io/badge/SOLIDWORKS-D71920?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 
 <br /><br />
 
