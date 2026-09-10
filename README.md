@@ -1,23 +1,25 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a5f,70:2563eb,100:38bdf8&height=210&section=header&text=Aryaen%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Mechatronics%20Engineering%20%E2%80%A2%20University%20of%20Waterloo&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Aryaen Sharma" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,30:132f4c,65:1565c0,100:38bdf8&height=215&section=header&text=Aryaen%20Sharma&fontSize=62&fontColor=ffffff&fontAlignY=33&desc=Mechatronics%20Engineering%20%E2%80%A2%20University%20of%20Waterloo&descAlignY=53&descSize=17&animation=fadeIn" width="100%" alt="Aryaen Sharma" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=720&lines=Full-stack+engineer+with+a+hardware+habit;React+%2B+FastAPI+%E2%86%92+shipped+and+deployed;Computer+vision%2C+robotics%2C+applied+AI;Ship+the+prototype%2C+then+make+it+real" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Robotics+%2B+software%2C+in+that+order+of+ambition;5+seasons+of+VEX+%E2%86%92+VEX+World+Championship+quarter-finals;C%2B%2B+on+microcontrollers%2C+React+on+the+web;I+build+things+that+move%2C+then+make+them+reliable" alt="Intro" />
 
 <br /><br />
 
 <a href="https://www.linkedin.com/in/aryaen-sharma">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:aryaen.sharma21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://issue-tracker-sharm4.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live demo" />
+  <img src="https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" />
 </a>
 &nbsp;
-<a href="https://github.com/Aryaen-Sharma?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Projects" />
-</a>
+<img src="https://img.shields.io/badge/🎓_Waterloo_Mechatronics-FFD54F?style=for-the-badge&labelColor=FFD54F&color=FFD54F" alt="Waterloo Mechatronics" />
 
 <br />
 
@@ -28,26 +30,81 @@
 <!-- ============================== ABOUT ============================== -->
 ## &nbsp;👋&nbsp; About
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
+<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="" />
 
-I'm a **Mechatronics Engineering** student at the **University of Waterloo** — a degree that refuses to pick between mechanical, electrical, and software, which suits me.
+I'm a **Mechatronics Engineering** student at the **University of Waterloo**, and I care most about the problems where code has to survive contact with the physical world.
 
-Most of what I build lives where **hardware meets software**: perception pipelines, control logic, and the web layer that makes it usable by an actual person.
+That started with **five seasons of competitive VEX Robotics** — writing autonomous routines in C++, tuning PID loops until a drivetrain hit its mark repeatably, and building the mechanisms those loops were driving. It carried into a **G-code-interpreting sand plotter** I designed and built from steppers up.
+
+Three software co-ops later, my **web and test-automation** work is genuinely my strongest technical muscle — and I'd like to point it at robotics.
 
 ```yaml
-program:  Mechatronics Engineering, University of Waterloo
-building: full-stack apps · computer vision · applied AI
-comfort:  Python · JavaScript/React · FastAPI · OpenCV
-approach: ship the prototype, then make it real
-ask me:   robotics, embedded systems, or JWT auth flows
+program:   Mechatronics Engineering (BASc, Co-op) — University of Waterloo
+robotics:  autonomous routines · PID tuning · steppers · CAD · 5 VEX seasons
+software:  C++ · Python · TypeScript/React · FastAPI · Playwright
+seeking:   robotics & embedded software co-op roles
+approach:  build it, break it, tune it, repeat
 ```
 
-- 🧱 Recently shipped a **production-deployed full-stack issue tracker** — auth, role-based authorization, aggregation-backed analytics, and an end-to-end test suite.
-- 👁️ Comfortable with **computer vision**: custom-trained YOLOv8 detectors, OCR pipelines, and MediaPipe hand tracking.
-- 🤖 Completed the **WATonomous Autonomous Software Division** training assignment (ROS 2 / Python).
-- 🏗️ Hackathon builder — fast prototypes that actually run in a demo.
-
 <br clear="right" />
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+</div>
+
+<!-- ============================== ROBOTICS ============================== -->
+## &nbsp;🤖&nbsp; Robotics
+
+<table>
+<tr>
+<td valign="top" width="58%">
+
+### Discobots — VEX Robotics Competition
+**Team Captain · Mechanical Lead · Programmer · Driver** &nbsp;·&nbsp; *2019 – 2024, Teams 1104X & 1104D*
+
+Five seasons on the same program, growing from a new member into the technical lead across code, build, and drive.
+
+- 🏆 **Divisional quarter-finalist, 2023 VEX World Championship**
+- 🥇 **Round of 16, 2024 Ontario Provincial Championship** — captained a 5-member team
+- 📈 **21st in Ontario** skills standings
+- 🔁 **50+ robot iterations** and **25+ mechanical subsystems** built, concept to competition
+- 🎯 **78% match uptime**, earned through iterative design and between-match repairs
+
+**On the software side:** autonomous routines in **VEXcode (C++)** using encoder and sensor feedback, **PID** and **take-back-half velocity control** tuned so the drivetrain and lift hit target positions consistently across changing field conditions. Code got revised between events based on driver feedback and match footage — I was also the driver, which closed that loop fast.
+
+<img src="https://img.shields.io/badge/Excellence_Award-FFD700?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Tournament_Champion-FFD700?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Skills_Champion-C0C0C0?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Innovate_Award-CD7F32?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Judges_Award-CD7F32?style=flat-square&logoColor=black" />
+
+</td>
+<td valign="top" width="42%">
+
+### 🏖️ Magic Sand Art Table
+**A coffee table that draws in sand.** &nbsp;·&nbsp; *`C++` `Arduino` `Raspberry Pi` `Inventor`*
+
+A magnet on a two-axis rail drags an actuator beneath a bed of sand, tracing arbitrary patterns under a glass top.
+
+- Wrote a **custom G-code interpreter in C++** on Arduino, translating toolpaths into synchronized two-axis stepper motion
+- Coordinated **two stepper motors** on a rail gantry driving a magnetic actuator
+- Designed and **3D-printed** stepper and actuator mounts in **Autodesk Inventor** to hold the gantry's tolerances
+- Added a **Raspberry Pi** network server exposing pattern generation, so any device on the LAN can drive the table
+
+*The hard part wasn't mechanical — cheap stepper drivers made tuning miserable until we characterized and replaced them.*
+
+### 🚗 WATonomous — ASD Training
+*`Python` `ROS 2`*
+
+Completed the [Autonomous Software Division training assignment](https://github.com/Aryaen-Sharma/wato_asd_training) — perception and control fundamentals in a ROS 2 workspace.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+</div>
 
 <!-- ============================== STACK ============================== -->
 ## &nbsp;🧰&nbsp; Toolkit
@@ -56,33 +113,46 @@ ask me:   robotics, embedded systems, or JWT auth flows
 
 <br />
 
+**Robotics, Embedded & Hardware**
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi&theme=dark" alt="Embedded" />
+&nbsp;
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/VEXcode-D71920?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/PID_Control-0F766E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Stepper_Drives-4B5563?style=for-the-badge&logoColor=white" />
+
+**CAD & Fabrication**
+
+<img src="https://img.shields.io/badge/SOLIDWORKS-D71920?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+<img src="https://img.shields.io/badge/Autodesk_Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=black" />
+<img src="https://img.shields.io/badge/AutoCAD-9B1C1C?style=for-the-badge&logo=autocad&logoColor=white" />
+<img src="https://img.shields.io/badge/3D_Printing-1F2937?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CNC_·_Soldering_·_Laser_Cutting-374151?style=for-the-badge&logoColor=white" />
+
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sass&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css&theme=dark" alt="Languages" />
 
-**Frontend**
+**Web, Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=react,vite,materialui,nodejs&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,mongodb,nodejs,azure&theme=dark" alt="Web" />
 
-**Backend & Data**
+**Vision & Numerics**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb&theme=dark" alt="Backend" />
-
-**AI / Vision**
-
-<img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="AI" />
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" alt="Vision" />
 &nbsp;
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
 
-**Infrastructure & Tooling**
+**Testing, Tooling & Infra**
 
-<img src="https://skillicons.dev/icons?i=docker,git,vercel,linux,vscode&theme=dark" alt="Tooling" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,postman,vscode&theme=dark" alt="Tooling" />
 &nbsp;
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Robot_Framework-00C0B5?style=for-the-badge&logo=robotframework&logoColor=white" />
 
 <br /><br />
 
@@ -90,15 +160,46 @@ ask me:   robotics, embedded systems, or JWT auth flows
 
 </div>
 
-<!-- ============================== HERO PROJECT ============================== -->
-## &nbsp;⭐&nbsp; Featured &nbsp;·&nbsp; Issue Tracker
+<!-- ============================== EXPERIENCE ============================== -->
+## &nbsp;💼&nbsp; Co-op Experience
+
+<table>
+<tr><th align="left">When</th><th align="left">Where</th><th align="left">What I did</th></tr>
+<tr>
+<td valign="top"><b>May – Aug<br/>2026</b></td>
+<td valign="top"><b>Enginess</b><br/><sub>Software Developer</sub></td>
+<td valign="top">Owned <b>CarJiffy</b>'s full frontend and backend E2E coverage — <b>98 tests, ~3,900 lines, 42 modules</b> across <b>17 Playwright projects</b> in TypeScript with multi-user auth state and MSSQL-backed fixtures. Automated passwordless <b>OTP login</b> by reading one-time codes directly from the internal database, and built a Python pipeline that records narrated product walkthroughs with a <b>Claude API</b> agent choosing each action.</td>
+</tr>
+<tr>
+<td valign="top"><b>Sep – Dec<br/>2025</b></td>
+<td valign="top"><b>Bell Canada</b><br/><sub>Software Developer</sub></td>
+<td valign="top">Engineered an omnichannel <b>callback → appointment</b> flow in <b>ServiceNow UI Builder</b>, chaining REST integrations to collapse a multi-step booking into one. Ended a recurring class of timezone defects with <b>UTC normalization</b> scripts, and cut request-to-agent idle time by aligning ASAP and scheduled queues with 60s schedulers and <b>AWA skill-routing</b> rules.</td>
+</tr>
+<tr>
+<td valign="top"><b>Jan – Apr<br/>2025</b></td>
+<td valign="top"><b>Bell Canada</b><br/><sub>Software Developer</sub></td>
+<td valign="top">Validated end-to-end telemetry ingestion from <b>Azure Event Hub</b> into <b>ADX</b> with Python and <b>Robot Framework</b> suites. Authored <b>50+ automated API tests</b> across two services, and designed a new ADX table in <b>KQL</b> — schema, retention, ingestion rules — shipped through GitLab CI/CD.</td>
+</tr>
+<tr>
+<td valign="top"><b>Jul – Aug<br/>2024</b></td>
+<td valign="top"><b>CGI</b><br/><sub>Store Support Intern</sub></td>
+<td valign="top">Imaged and deployed <b>~300 back-office machines</b> to Bell retail locations over a 10-week project, managed the inventory database, and ran hardware quality and warranty checks.</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+</div>
+
+<!-- ============================== SOFTWARE PROJECT ============================== -->
+## &nbsp;💻&nbsp; Software &nbsp;·&nbsp; Issue Tracker
 
 <div align="center">
 
 ### A full-stack issue tracker — built, tested, and deployed
 
 <a href="https://issue-tracker-sharm4.vercel.app">
-  <img src="https://img.shields.io/badge/▶_Try_it_live-38BDF8?style=for-the-badge&logoColor=white&labelColor=0f172a" alt="Live demo" />
+  <img src="https://img.shields.io/badge/▶_Try_it_live-38BDF8?style=for-the-badge&logoColor=white&labelColor=0b1120" alt="Live demo" />
 </a>
 <a href="https://github.com/Aryaen-Sharma/IssueTracker">
   <img src="https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
@@ -107,7 +208,7 @@ ask me:   robotics, embedded systems, or JWT auth flows
 <br /><br />
 
 <a href="https://github.com/Aryaen-Sharma/IssueTracker">
-  <img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/demo.gif" width="88%" alt="Issue Tracker demo" />
+  <img src="https://raw.githubusercontent.com/Aryaen-Sharma/IssueTracker/main/docs/demo.gif" width="86%" alt="Issue Tracker demo" />
 </a>
 
 </div>
@@ -120,14 +221,14 @@ ask me:   robotics, embedded systems, or JWT auth flows
 
 **What it does**
 
-Teams file issues, comment, filter, and watch live status charts. Every account is fully scoped — users can't read or touch each other's data, and it's tested for exactly that.
+Users file issues, comment, filter, and watch live status charts. Every account is fully scoped — users can't read or touch each other's data, and there's a test asserting exactly that.
 
 - 🔐 **JWT auth** — bcrypt hashing, 20-minute tokens, password-change re-verification
 - 🛡️ **Role-based authorization** — sensitive issues are `is_protected` and admin-delete-only, enforced **server-side**
 - 📊 **Stats page** driven by a MongoDB aggregation pipeline
 - ⚡ **Optimistic UI** — status changes apply instantly, roll back on failure
-- 🔎 Search, filter, sort, and paginated dashboard
-- 🌗 Dark/light themes, toasts, overdue detection, empty states
+- 🧪 **pytest + Playwright** suites in a GitHub Actions pipeline
+- 🌗 Dark/light themes, overdue detection, toasts, empty states
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +241,7 @@ Teams file issues, comment, filter, and watch live status charts. Every account 
 | Backend | FastAPI, Pydantic, python-jose, Passlib + bcrypt |
 | Database | MongoDB Atlas (PyMongo) |
 | Tests | pytest (API) + Playwright (E2E) |
-| Hosting | Vercel — frontend and API in one project |
+| CI/CD | GitHub Actions → Vercel |
 
 ```text
 React (Axios)
@@ -167,62 +268,47 @@ A single Axios instance carries two interceptors: one attaches the bearer token,
 </details>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
-</div>
-## &nbsp;🚀&nbsp; Also Built
+<br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📖 [ReadAble](https://github.com/harsharan-r/ReadAble) &nbsp;—&nbsp; a camera that reads along with you
 
-### 🧥 [FitCheck](https://github.com/mdola19/FitCheck)
-
-**An AI stylist that ends the morning outfit debate.**
-
-A **custom-trained YOLOv8** model catalogues your wardrobe from photos. Live weather plus an LLM stylist then recommends a fit — with voice interaction and Pinterest inspiration alongside it.
-
-Highlights: custom object-detection training, multimodal reasoning, speech-to-text and back, accessibility controls (contrast, font size, colour-blind filters).
+Built for students learning a new language. Point at an unfamiliar word in a physical book and get an instant definition, or let text-to-speech read the page aloud — no typing, no app-switching. Real-time **OCR** over a live camera feed, with **MediaPipe** fingertip tracking mapped onto detected word regions, streamed to the browser through Flask and SocketIO.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📖 [ReadAble](https://github.com/harsharan-r/ReadAble)
-
-**A camera that reads along with you.**
-
-Built for students learning a new language. Point at an unfamiliar word in a physical book and get an instant definition, or let text-to-speech read the page aloud — no typing, no app-switching.
-
-Highlights: real-time OCR on a live camera feed, MediaPipe fingertip tracking mapped to detected words, scanned books saved for reuse.
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/EasyOCR-4B8BBE?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>&nbsp;📂&nbsp; More work &nbsp;<i>(click to expand)</i></b></summary>
 
 <br />
 
-**❄️ [SnowSmart](https://github.com/Aryaen-Sharma/SnowSmart)** — `React` `MUI` `Gemini API` `Docker`
-Snow-removal planner built at HackCanada 2025 (Laurier). Enter a city and your available machinery; it pulls live forecast data and generates an optimized clearing schedule. Dockerized for one-command deploys.
+<details>
+<summary><b>&nbsp;📂&nbsp; More projects &nbsp;<i>(click to expand)</i></b></summary>
 
-**🤖 [wato_asd_training](https://github.com/Aryaen-Sharma/wato_asd_training)** — `Python` `ROS 2`
-WATonomous Autonomous Software Division training assignment — robotics perception and control fundamentals in a ROS 2 workspace.
+<br />
+
+**🧥 [FitCheck](https://github.com/mdola19/FitCheck)** — `Python` `Flask` `Ultralytics` `Groq` `Deepgram`
+An AI stylist that ends the morning outfit debate. A vision model catalogues your wardrobe from photos, then live weather plus an LLM recommends a fit, with voice interaction and accessibility controls throughout.
+
+**❄️ [SnowSmart](https://github.com/Aryaen-Sharma/SnowSmart)** — `React` `MUI` `Gemini API` `Docker`
+Snow-removal planner built at HackCanada 2025 (Laurier). Enter a city and your available machinery; it pulls live forecast data and generates an optimized clearing schedule.
 
 </details>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+</div>
+
+<!-- ============================== EDUCATION ============================== -->
+## &nbsp;🎓&nbsp; Education & Awards
+
+**University of Waterloo** — *BASc, Mechatronics Engineering (Co-op)* · Sept 2024 – 2029 (expected)
+Coursework: Microprocessors & Digital Logic · Circuits · Differential Equations · Data Structures & Algorithms · Statistics · Digital Computation (C++)
+
+<img src="https://img.shields.io/badge/President's_Scholarship_of_Distinction-1565C0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Paul_Koenderman_Engineering_Scholarship_(1_of_2)-1565C0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Telus_Bursary-1565C0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/4×_Honor_Roll-1565C0?style=flat-square&logoColor=white" />
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
@@ -233,19 +319,23 @@ WATonomous Autonomous Software Division training assignment — robotics percept
 
 ## &nbsp;🤝&nbsp; Get in touch
 
-Open to internships, co-op roles, and side projects worth building.
-If you want to talk robotics, computer vision, or full-stack architecture — reach out.
+**Looking for robotics and embedded software co-op roles** — and happy to talk control loops,
+build quality, or why your Playwright suite is flaky either way.
 
 <br />
 
 <a href="https://www.linkedin.com/in/aryaen-sharma">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
+<a href="mailto:aryaen.sharma21@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+scrolling.+Now+go+build+something." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1200&color=94A3B8&center=true&vCenter=true&width=560&lines=Build+it%2C+break+it%2C+tune+it%2C+repeat." alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,30:2563eb,65:1e3a5f,100:0f172a&height=140&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,35:1565c0,70:132f4c,100:0b1120&height=140&section=footer" width="100%" alt="" />
 
 </div>
