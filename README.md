@@ -90,7 +90,9 @@ A magnet on a two-axis rail drags an actuator beneath a bed of sand, tracing arb
 
 ### 🚗 WATonomous — Autonomous Software Division
 
-Completed the [ASD training assignment](https://github.com/Aryaen-Sharma/wato_asd_training) — perception and control fundamentals in a **ROS 2** workspace. &nbsp;*`Python` · `ROS 2`*
+*`Python` · `ROS 2`*
+
+Completed the [ASD training assignment](https://github.com/Aryaen-Sharma/wato_asd_training) — perception and control fundamentals in a **ROS 2** workspace.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
@@ -109,25 +111,25 @@ Completed the [ASD training assignment](https://github.com/Aryaen-Sharma/wato_as
 <br />
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/VEXcode-D71920?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/PID_Control-0F766E?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Stepper_Drives-4B5563?style=for-the-badge&logoColor=white" />
 
-<br /><br />
+<br />
 
 <b>CAD & Fabrication</b>
 <br />
 <img src="https://img.shields.io/badge/SOLIDWORKS-D71920?style=for-the-badge&logo=dassaultsystemes&logoColor=white" /> <img src="https://img.shields.io/badge/Autodesk_Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=black" /> <img src="https://img.shields.io/badge/AutoCAD-9B1C1C?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/3D_Printing-1F2937?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/CNC_·_Soldering_·_Laser_Cutting-374151?style=for-the-badge&logoColor=white" />
 
-<br /><br />
+<br />
 
 <b>Languages</b>
 <br />
 <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css&theme=dark" alt="Languages" />
 
-<br /><br />
+<br />
 
 <b>Web, Backend & Data</b>
 <br />
 <img src="https://skillicons.dev/icons?i=react,fastapi,flask,mongodb,nodejs,azure&theme=dark" alt="Web" />
 
-<br /><br />
+<br />
 
 <b>Vision & Numerics</b>
 <br />
@@ -135,7 +137,7 @@ Completed the [ASD training assignment](https://github.com/Aryaen-Sharma/wato_as
 <br />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
 
-<br /><br />
+<br />
 
 <b>Testing, Tooling & Infra</b>
 <br />
@@ -312,7 +314,7 @@ build quality, or why your Playwright suite is flaky either way.
 <a href="mailto:aryaen.sharma21@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=4000&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&height=40&lines=Build+it%2C+break+it%2C+tune+it%2C+repeat." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1200&color=94A3B8&center=true&vCenter=true&width=680&height=40&lines=Build+it%2C+break+it%2C+tune+it%2C+repeat." alt="" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,35:1565c0,70:132f4c,100:0b1120&height=140&section=footer" width="100%" alt="" />
 
